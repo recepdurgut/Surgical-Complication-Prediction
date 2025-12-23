@@ -13,14 +13,6 @@ This workflow handles:
 
 ---
 
-## Author
-
-**Name:** Recep Durgut  
-**Program:** M.Sc. Biotechnologie, 1st Semester  
-**Student Number:** 0514594  
-
----
-
 ## Dependencies
 
 - Python ≥ 3.8
